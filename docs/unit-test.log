@@ -1,0 +1,8 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/ComuniSocial/test/widget_test.dart
+00:00 +0: social changes, conversations, groups and profile survive reload
+00:00 +1: blank messages are ignored and malformed storage falls back
+00:00 +2: login validates input then opens the feed
+00:01 +3: publishing returns to feed and bookmarking updates favorites
+00:01 +4: search filters and adding a friend changes the Friends list
+00:01 +5: screens handle narrow, landscape and larger text without overflow
+00:02 +6: All tests passed!

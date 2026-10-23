@@ -1,0 +1,409 @@
+{
+  "document": "Comuni Social Media app",
+  "page": "Comuni Social Media App",
+  "frames": [
+    {
+      "id": "2:8",
+      "name": "Splash",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2989,
+        "y": -1427,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 2
+    },
+    {
+      "id": "2:15",
+      "name": "On-Baording 01",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2469,
+        "y": -1427,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:49",
+      "name": "On-Baording 02",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1949,
+        "y": -1427,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:85",
+      "name": "On-Baording 03",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1429,
+        "y": -1427,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:122",
+      "name": "Welcome",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2989,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:138",
+      "name": "Register  - Empty State",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2469,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:174",
+      "name": "Register - Info State",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1949,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:232",
+      "name": "Phone Number - Empty State",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1429,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "2:299",
+      "name": "Phone Number - Info State",
+      "type": "FRAME",
+      "bounds": {
+        "x": -909,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "2:367",
+      "name": "Vreification - Empty Satte",
+      "type": "FRAME",
+      "bounds": {
+        "x": -389,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:399",
+      "name": "Verification - Info State",
+      "type": "FRAME",
+      "bounds": {
+        "x": 101,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "2:424",
+      "name": "Login - Empty State",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1757,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:452",
+      "name": "Login - Info State",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2263,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:491",
+      "name": "Forget - Empty Sate",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2769,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:504",
+      "name": "Forget - Info State",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3323,
+        "y": 393,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:544",
+      "name": "Home",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2989,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "2:2061",
+      "name": "Notification",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2505,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 11
+    },
+    {
+      "id": "2:1887",
+      "name": "Comments",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2002,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "2:1551",
+      "name": "Search Reselts",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1447,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "2:920",
+      "name": "Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": -931,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 10
+    },
+    {
+      "id": "2:742",
+      "name": "Messages - Delete",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2261,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "2:837",
+      "name": "Messages - Chat",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2780,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 2
+    },
+    {
+      "id": "2:1033",
+      "name": "Post",
+      "type": "FRAME",
+      "bounds": {
+        "x": -389,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 8
+    },
+    {
+      "id": "2:656",
+      "name": "Messages",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1742,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 4
+    },
+    {
+      "id": "2:1118",
+      "name": "Messages - Delete",
+      "type": "FRAME",
+      "bounds": {
+        "x": 2347,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "2:1392",
+      "name": "Create Group",
+      "type": "FRAME",
+      "bounds": {
+        "x": 3299,
+        "y": 2166,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 5
+    },
+    {
+      "id": "2:1198",
+      "name": "Personal Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2989,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 11
+    },
+    {
+      "id": "2:1606",
+      "name": "Setting",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1951,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 3
+    },
+    {
+      "id": "2:1672",
+      "name": "Edit Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": -1432,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    },
+    {
+      "id": "2:1732",
+      "name": "Uploab Photo",
+      "type": "FRAME",
+      "bounds": {
+        "x": -2470,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 7
+    },
+    {
+      "id": "2:1843",
+      "name": "Messages - Delete",
+      "type": "FRAME",
+      "bounds": {
+        "x": 1805,
+        "y": 3996,
+        "width": 414,
+        "height": 896
+      },
+      "parentId": "0:1",
+      "childCount": 6
+    }
+  ]
+}
